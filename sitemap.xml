@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/city/</loc>
+    <loc>//localhost:1313/cities/</loc>
   </url><url>
-    <loc>/portrait/</loc>
+    <loc>//localhost:1313/portrait/</loc>
   </url><url>
-    <loc>/pet/</loc>
+    <loc>//localhost:1313/animals/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2023-01-12T00:00:00+11:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/categories/animals/</loc>
+    <loc>//localhost:1313/categories/animals/</loc>
   </url><url>
-    <loc>/imprint/</loc>
+    <loc>//localhost:1313/imprint/</loc>
   </url>
 </urlset>
